@@ -1,0 +1,13 @@
+.vhversionhopper_hopper .widefat th,
+.vhversionhopper_hopper .widefat td {
+	padding: 16px 10px!important;
+}
+
+.vhversionhopper_versions form {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 10px;
+}
