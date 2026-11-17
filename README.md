@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/version-hopper/assets/banner-1544x500.png)](https://wordpress.org/plugins/version-hopper/)
 
 **Tags:** plugin version, rollback, downgrade, update, themes \
-**Tested up to:** 7.0 \
+**Tested up to:** 7.1 \
 **Requires PHP:** 8.0
 
 Easily switch between versions of your WordPress plugins and themes directly from the admin dashboard.
@@ -63,6 +63,9 @@ Yes, you can switch installed themes to any previous version available on WordPr
 ![Theme list with version selector.](https://ps.w.org/version-hopper/assets/screenshot-2.png)
 
 ## Changelog
+
+### 1.0.3
+- Compatibility checkup for latest wp version 7.1
 
 ### 1.0.2
 - Compatibility checkup for latest wp version 7.0

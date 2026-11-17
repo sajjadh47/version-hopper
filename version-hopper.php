@@ -13,7 +13,7 @@
  * Plugin Name:       Version Hopper
  * Plugin URI:        https://wordpress.org/plugins/version-hopper/
  * Description:       Easily switch between plugin or theme versions from WordPress.org without hassle.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Requires at least: 6.5
  * Requires PHP:      7.4
  * Author:            Sajjad Hossain Sagor
@@ -32,7 +32,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'VHVERSIONHOPPER_VERSION_HOPPER_PLUGIN_VERSION', '1.0.2' );
+define( 'VHVERSIONHOPPER_VERSION_HOPPER_PLUGIN_VERSION', '1.0.3' );
 
 /**
  * Define Plugin Folders Path
